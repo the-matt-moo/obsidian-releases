@@ -61171,5 +61171,12 @@
     "author": "chengmiaofan",
     "description": "Run Oh My Pi, DeepSeek Harness, Claude Code, Codex, Grok, OpenCode and Pi inside your vault as chat collaborators. A fork of Claudian with provider readiness checks, a capability matrix and a token usage meter. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "serena-sheng/super-useful-claudian"
+  },
+  {
+    "id": "windows-startup-tray",
+    "name": "Windows Startup & Tray",
+    "author": "the-matt-moo",
+    "description": "Start Obsidian with Windows and optionally keep each vault in the system tray.",
+    "repo": "the-matt-moo/obsidian-windows-startup"
   }
 ]
